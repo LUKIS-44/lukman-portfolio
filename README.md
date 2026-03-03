@@ -5,6 +5,9 @@ Personal portfolio website for **Lukman Ibrahim (Cyber Security Learner)**, show
 ## Live Demo
 <a href="https://lukman-portfolio-mocha.vercel.app/" target="_blank">CLICK HERE</a>
 
+<img width="1857" height="795" alt="image" src="https://github.com/user-attachments/assets/37388dff-7467-4796-b706-50e4850ee314" />
+
+
 ## Features
 - Single-page layout with sections: **About Me**, **Projects**, **Skillset**, **Connect** :contentReference[oaicite:1]{index=1}
 - Smooth scrolling navigation + active section highlight :contentReference[oaicite:2]{index=2}

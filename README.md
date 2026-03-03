@@ -3,7 +3,7 @@
 Personal portfolio website for **Lukman Ibrahim (Cyber Security Learner)**, showcasing an “About Me” section, projects, skills/tools, and contact links. :contentReference[oaicite:0]{index=0}
 
 ## Live Demo
-- Deploy with GitHub Pages / Netlify / Vercel (instructions below)
+<a href="https://lukman-portfolio-mocha.vercel.app/" target="_blank">CLICK HERE</a>
 
 ## Features
 - Single-page layout with sections: **About Me**, **Projects**, **Skillset**, **Connect** :contentReference[oaicite:1]{index=1}
